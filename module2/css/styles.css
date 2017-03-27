@@ -11,6 +11,7 @@ h1 {
 }
 section {
 	background-color: #9494b8;
+	border: 1px solid black;
 	position: relative;
 	margin-bottom: 20px;
 	margin-right: 10px;
